@@ -1,0 +1,1 @@
+# vactination_game_model
