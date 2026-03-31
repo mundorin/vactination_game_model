@@ -348,7 +348,7 @@ class SIR_V_CHOICE:
                 'efficiency_status': efficiency_status,
                 'vaccination_gap': vaccination_gap if not is_efficient else 0.0
             }
-        }
+        }н
 
 
 class SIRV_CHOICE:
